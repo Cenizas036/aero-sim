@@ -11,8 +11,8 @@
 > Add your screenshots to a `/screenshots` folder in the repo and update the paths below.
 
 
-(screenshots/pg1.png)  (screenshots/pg2.png) 
-(screenshots/pg3.png) 
+(pg1.png)  (pg2.png) 
+(pg3.png) 
 
 ---
 
