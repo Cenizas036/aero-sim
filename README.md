@@ -10,13 +10,9 @@
 
 > Add your screenshots to a `/screenshots` folder in the repo and update the paths below.
 
-| Dashboard | Scenarios |
-|-----------|-----------|
-| ![Dashboard](screenshots/dashboard.png) | ![Scenarios](screenshots/scenarios.png) |
 
-| Analytics | Login |
-|-----------|-------|
-| ![Analytics](screenshots/analytics.png) | ![Login](screenshots/login.png) |
+(screenshots/pg1.png)  (screenshots/pg2.png) 
+(screenshots/pg3.png) 
 
 ---
 
